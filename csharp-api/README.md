@@ -8,7 +8,7 @@ The aim of this challenge is to take this minimal solution and implement a API f
 4. List all addresses for the user
 5. Get a single address for the user
 
-Users should only be able to access their own addresses. For the sake of simplicity only UK addresses are required. Their is no need to implement all operations in full but an end to end on one of the update operations would be helpful.
+Users should only be able to access their own addresses. For the sake of simplicity only UK addresses are required. Their is no need to implement all operations in full but an end to end on the create or update operation would be helpful.
 
 What we're looking for is an understanding of how you would implement the following capabilities:
 
